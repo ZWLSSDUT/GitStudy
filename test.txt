@@ -3,3 +3,4 @@ another new line
 Test docs for Git
 Add a new session
 Can i change the file directly on the git repository site ?
+yes you can !!!
