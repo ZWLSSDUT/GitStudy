@@ -1,3 +1,4 @@
 Now i have changed the docs
 another new line
 Test docs for Git
+Add a new session
